@@ -5,7 +5,7 @@
        SEASON OF SALE IN 5TECH<br />
        <hr style="width: 38%; margin-top: 5px; border: 1px solid #00ffc2" />
        <span class="hero-maintittle">Dinas Pemberdayaan Perempuan <br> Dan Anak Kota Manado<br /></span><br />
-       <span class="hero-subtittle">Up To 40% Off This Season</span>
+       <span class="hero-subtittle">Stop Kekerasan Pada Perempuan Dan Anak</span>
      </div>
      <a href="#product" class="btn btn-hero" style="margin-right:50px;">SHOP NOW</a>
    </div>
