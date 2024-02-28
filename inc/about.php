@@ -22,11 +22,7 @@
               />
             </div>
             <div class="about-right">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui odio
-              culpa quos iure, tempora sint aspernatur excepturi, at quas saepe
-              accusantium? Excepturi tempore natus, architecto impedit assumenda
-              deserunt pariatur voluptatem magni inventore nihil eveniet
-              doloremque nulla quasi non perspiciatis voluptates.
+              DP3A
             </div>
           </div>
         </div>
