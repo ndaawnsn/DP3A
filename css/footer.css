@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&family=Roboto:wght@300;400;500;700&family=Rubik+Wet+Paint&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,800");
+
+/* VARIABLE SETUP */
+:root {
+  /* FONT FAMILY */
+  --roboto: "Roboto", sans-serif;
+  --poppins: "Poppins", sans-serif;
+  --rubikWet: "Rubik Wet Paint", cursive;
+
+  /* COLOR PELLET */
+  --color-whiteHigh: white;
+  --color-whiteLow: #ddd;
+  --color-black: black;
+  --color-blackLow: #212121;
+  --color-grey: #c6c6c6;
+  --color-greyLow: #e1e1e1;
+  --color-greenBlue: #00ffc2;
+  --color-aqua: #4dd9d1;
+  --color-aqua-low: #24ada6;
+
+  /* COLOR PALLET PURPLE */
+  --color-primary: #cb997e;
+  --color-secondary: #ddbea9;
+  --color-third: #ffe8d6;
+  --color-last: #e4e3df;
+
+  /* DARK COLOR PALLET */
+  --color-dark-v1: #2a2e31;
+  --color-dark-v2: #181b1a;
+
+  /* COLOR TEXT */
+  --color-text-white: white;
+  --color-text-whiteLow: #ddd;
+  --color-text-black: rgb(21, 21, 21);
+
+  /* FONT WEIGHT */
+  --weight-300: 300;
+  --weight-400: 400;
+  --weight-500: 500;
+  --weight-700: 700;
+}
+
+/* FOOTER */
+
+.container-footer {
+  background-color: var(--color-blackLow);
+  padding: 50px;
+  height: 40vh;
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: var(--weight-300);
+}
+
+.footer-categories ul li,
+.footer-links ul li {
+  list-style: none;
+  margin: 5px 0;
+}
+
+.footer-categories ul li a:hover,
+.footer-links ul li a:hover,
+.footer-contact ul li a:hover {
+  color: var(--color-aqua-low);
+}
+
+.footer-footer {
+  background-color: var(--color-black);
+  font-size: 12px;
+  padding: 5px;
+}
